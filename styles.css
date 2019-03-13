@@ -1,0 +1,30 @@
+#farm {
+	background: url("farm1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1000px;
+	display: flex;
+}
+#chickens{
+
+	width: 100px;
+	top: 800px;
+	left: 100px;
+	padding-top: 800px;
+	padding-left: 200px;
+}
+#duck{
+	width: 100px;
+	top: 800px;
+	left: 500px;
+	padding-top: 900px;
+	padding-left: 300px;
+}
+#cow{
+	width: 200px;
+	top: 600px;
+	left: 300px;
+	padding-bottom: 100px; 
+	padding-left: 500px;
+	align-self: flex-end;
+}
